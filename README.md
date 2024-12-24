@@ -1,6 +1,6 @@
 # British-Airways-Data-Science-Job-Simulation
 
-![British Airways Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmediacentre.britishairways.com%2Fimage%2Fdetails%2F115864&psig=AOvVaw0gEAk0XdwNVeYfPfRL_AKb&ust=1735164916049000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDiwry3wYoDFQAAAAAdAAAAABA6)
+![British Airways Logo](https://mediacentre.britishairways.com/contents/archives/216/86/images/thumb1280x1683_width/britishairways_216861253015751_thumb.jpg)
 
 This project focuses on analyzing customer reviews from the British Airways page on Airline Quality and predicting customer buying behavior using machine learning techniques.
 
@@ -21,6 +21,8 @@ The customer reviews were retrieved from the [British Airways page on Airline Qu
 - Insights and analysis were summarized in a PowerPoint presentation.
 
 ---
+## Task 2: Customer Behavior Prediction
+Creating a classification model to predict customer buying behavior.
 ### Challenges
 The dataset exhibited a significant class imbalance, making it difficult for models to accurately predict positive class instances.
 
