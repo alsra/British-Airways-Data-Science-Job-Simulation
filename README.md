@@ -1,6 +1,6 @@
 # British-Airways-Data-Science-Job-Simulation
 
-![British Airways Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Fbritish-airways-logo%2F&psig=AOvVaw0gEAk0XdwNVeYfPfRL_AKb&ust=1735164916049000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDiwry3wYoDFQAAAAAdAAAAABAI)
+![British Airways Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmediacentre.britishairways.com%2Fimage%2Fdetails%2F115864&psig=AOvVaw0gEAk0XdwNVeYfPfRL_AKb&ust=1735164916049000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDiwry3wYoDFQAAAAAdAAAAABA6)
 
 This project focuses on analyzing customer reviews from the British Airways page on Airline Quality and predicting customer buying behavior using machine learning techniques.
 
@@ -32,6 +32,7 @@ The dataset exhibited a significant class imbalance, making it difficult for mod
 ### Best Performing Model
 - **Model**: XGBoost
 - **Metrics**:
+  ![Metrics](https://github.com/alsra/British-Airways-Data-Science-Job-Simulation/blob/main/best_model.png)
 ---
 ## Observations
 - All models struggled with accurately predicting the positive class due to class imbalance.
